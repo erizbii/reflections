@@ -7,6 +7,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	staging area can only contain the files which the user decided to track while the working directory includes all the files in the directory
+
+	it allows the user to choose only the files the needed to be tracked
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
