@@ -34,3 +34,6 @@ the diagram the way we do?
     
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+    pros: merging can be resolved easily if no conflicts was found
+    cons: still need to to manual merges when a conflict was seen
