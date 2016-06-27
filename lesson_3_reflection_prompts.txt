@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	branches - branching from local repo
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	to have a clean copy before other collaborators made changes with the code
