@@ -20,3 +20,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	by creating branches, remote repositories, forks, pull request
 	the hard part would probably be the merging when there's conflict
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    when you are working on something experimental
+    benefit of creating a separate branch : avoiding unwanted changes in the master branch
+    benefit of directly updating master branch : git commit history is shorter
